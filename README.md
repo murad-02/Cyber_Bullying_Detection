@@ -1,7 +1,7 @@
 # Cyberbullying Detection in Bangla-English Social Media Comments
 
 This repository provides a complete pipeline for detecting cyberbullying in Bangla-English social media comments using deep learning and natural language processing. It includes two main Jupyter notebooks:
-
+one is BERT model and another is Ensemble of BERT, LSTM, Random Forest models
 ---
 
 ## 1. CyberbullyingDetect.ipynb
